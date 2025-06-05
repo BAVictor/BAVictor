@@ -7,6 +7,4 @@ fostering collaboration across cross-functional teams to implement innovative te
 enhance operational effectiveness and deliver tangible business value.
 - 👀 I’m interested in driving change.
 - 📫 How to reach me is via victorchinasa23@gmail.com
-BAVictor/BAVictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->  
